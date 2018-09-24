@@ -1,5 +1,8 @@
 _repo: The-Bondman-A-Story-of-the-Times-of-Wat-Tyler-The-Library-of-Romance-Vol-V_56976
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56976-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Neill, Mrs.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '38232'
     url: http://www.gutenberg.org/2009/agents/38232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56976#The-Bondman-A-Story-of-the-Times-of-Wat-Tyler-The-Library-of-Romance-Vol-V
 gutenberg_issued: '2018-04-13'
 gutenberg_type: Text
 identifiers:
